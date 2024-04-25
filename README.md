@@ -9,8 +9,6 @@ Data manipulation and visualisation was done using readr, ggplot2, and dplyr pac
 - datasets/confirmed_cases_by_country.csv: This CSV file contains data on confirmed COVID-19 cases by country, which is used for country-wise analysis.
 - datasets/confirmed_cases_top7_outside_china.csv: This CSV file contains data on the top 7 countries by total confirmed cases outside China, enabling focused analysis on these countries.
 
-## Jupyter notebook file
+## Analysis files
 - notebook.ipynb: This Jupyter Notebook file contains the output of your R analysis script. 
-
-## 
 - notebook.r: This file contains the R script for data manipulation, visualization, and analysis. 
